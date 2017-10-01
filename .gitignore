@@ -47,3 +47,5 @@ youtube-dl.zsh
 *.iml
 
 tmp/
+.vscode/
+cookies/

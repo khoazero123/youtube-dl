@@ -1354,3 +1354,5 @@ from .zapiks import ZapiksIE
 from .zaq1 import Zaq1IE
 from .zdf import ZDFIE, ZDFChannelIE
 from .zingmp3 import ZingMp3IE
+from .nhaccuatui import NhacCuaTuiIE
+from .fshare import FshareIE
