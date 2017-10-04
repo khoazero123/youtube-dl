@@ -17,8 +17,15 @@ class FshareIE(InfoExtractor):
         'url': 'https://www.fshare.vn/file/VE3W2B39OHZB',
         'info_dict': {
             'id': 'VE3W2B39OHZB',
-            'title': 'INF 203 V5.docx',
+            'title': 'INF 203 V5',
             'ext': 'docx'
+        },
+    }, {
+        'url': 'https://www.fshare.vn/file/VE3W2B39OHZB',
+        'info_dict': {
+            'id': 'VE3W2B39OHZB',
+            'title': 'Royal.Family.01.2011.720p',
+            'ext': 'mp4'
         },
     }, {
         'url': 'https://www.fshare.vn/file/VE3W2B39OHZB',
